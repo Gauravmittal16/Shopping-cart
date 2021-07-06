@@ -31,7 +31,7 @@ public class SiteController
 		return candidateService.saveCandidate(candidate);
 	}
 	
-	/*API to fetch Products*/
+	/*API to fetch all Products*/
 	@RequestMapping("/products")
 	@ResponseBody
 	public List<Candidate> getCandidates()
