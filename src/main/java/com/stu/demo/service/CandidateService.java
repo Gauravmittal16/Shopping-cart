@@ -8,6 +8,9 @@ import org.springframework.stereotype.Service;
 import com.stu.demo.model.Candidate;
 import com.stu.demo.repository.CandidateRepo;
 
+/*@author*/
+
+
 @Service
 public class CandidateService 
 {
