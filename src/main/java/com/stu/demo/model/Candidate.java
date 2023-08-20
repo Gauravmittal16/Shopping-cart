@@ -5,7 +5,7 @@ import javax.persistence.Entity;
 import javax.persistence.Id;
 import org.springframework.beans.factory.annotation.Autowired;
 
-
+//gtghthhyt
 @Entity
 public class Candidate 
 {
